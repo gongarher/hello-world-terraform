@@ -28,7 +28,7 @@ pipeline {
         
         stage ("Paso 5: Final") {
             steps {
-                echo "Despliegue de terraform correctisimo2" 
+                echo "Despliegue de terraform correctisimo3" 
            }
         }
     }
